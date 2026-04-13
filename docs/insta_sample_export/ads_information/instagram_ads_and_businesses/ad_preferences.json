@@ -1,0 +1,109 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Removed categories",
+      "vec": [
+        
+      ]
+    },
+    {
+      "dict": [
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "e3c25b7a-e318-491a-8dcf-a1c2c9e0fd4b"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1767563883
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "f1289ba8-f6d6-4510-854e-847e2331c9ed"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1767224832
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Dynamic Ads - Relationship_Group_1_Video"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1741690308
+            }
+          ],
+          "title": ""
+        }
+      ],
+      "title": "Hidden ads"
+    },
+    {
+      "dict": [
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Advertiser",
+              "value": "Our_lifestylesharing"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1767563883
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Advertiser",
+              "value": "Temu"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1767224832
+            }
+          ],
+          "title": ""
+        }
+      ],
+      "title": "Hidden advertisers"
+    }
+  ],
+  "fbid": "17957788453356014"
+}

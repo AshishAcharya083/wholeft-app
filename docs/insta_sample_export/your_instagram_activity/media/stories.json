@@ -1,0 +1,713 @@
+{
+  "ig_stories": [
+    {
+      "uri": "media/stories/202601/17927142093230939.mp4",
+      "creation_timestamp": 1767603114,
+      "media_metadata": {
+        "video_metadata": {
+          "exif_data": [
+            {
+              "device_id": "07A94F4D-9968-4848-AF52-38F646E94907",
+              "camera_position": "back",
+              "source_type": "library"
+            }
+          ]
+        },
+        "camera_metadata": {
+          "has_camera_metadata": false
+        }
+      },
+      "title": "",
+      "cross_post_source": {
+        "source_app": "FB"
+      },
+      "dubbing_info": [
+        
+      ],
+      "media_variants": [
+        
+      ]
+    },
+    {
+      "uri": "media/stories/202601/18071135477116044.mp4",
+      "creation_timestamp": 1767598153,
+      "media_metadata": {
+        "video_metadata": {
+          "exif_data": [
+            {
+              "device_id": "07A94F4D-9968-4848-AF52-38F646E94907",
+              "camera_position": "unknown",
+              "source_type": "library"
+            }
+          ]
+        },
+        "camera_metadata": {
+          "has_camera_metadata": true
+        }
+      },
+      "title": "",
+      "cross_post_source": {
+        "source_app": "FB"
+      },
+      "dubbing_info": [
+        
+      ],
+      "media_variants": [
+        
+      ]
+    },
+    {
+      "uri": "media/stories/202601/17863273629555530.mp4",
+      "creation_timestamp": 1767597933,
+      "media_metadata": {
+        "video_metadata": {
+          "exif_data": [
+            {
+              "iso": 80,
+              "focal_length": "6.764999865652793",
+              "lens_model": "iPhone 17 Pro Max back triple camera 6.765mm f/1.78",
+              "software": "26.1",
+              "device_id": "07A94F4D-9968-4848-AF52-38F646E94907",
+              "scene_type": 1,
+              "camera_position": "back",
+              "lens_make": "Apple",
+              "date_time_digitized": "2026:01:05 18:22:01",
+              "date_time_original": "2026:01:05 18:22:01",
+              "source_type": "library",
+              "aperture": "1.6637544366004915",
+              "shutter_speed": "8.198129483337873",
+              "metering_mode": "5"
+            }
+          ]
+        },
+        "camera_metadata": {
+          "has_camera_metadata": true
+        }
+      },
+      "title": "",
+      "cross_post_source": {
+        "source_app": "FB"
+      },
+      "dubbing_info": [
+        
+      ],
+      "media_variants": [
+        
+      ]
+    },
+    {
+      "uri": "media/stories/202601/18082913606469319.jpg",
+      "creation_timestamp": 1767596996,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "iso": 80,
+              "focal_length": "6.764999865652793",
+              "lens_model": "iPhone 17 Pro Max back triple camera 6.765mm f/1.78",
+              "software": "26.1",
+              "device_id": "07A94F4D-9968-4848-AF52-38F646E94907",
+              "scene_type": 1,
+              "camera_position": "back",
+              "lens_make": "Apple",
+              "date_time_digitized": "2026:01:05 16:12:58",
+              "date_time_original": "2026:01:05 16:12:58",
+              "source_type": "library",
+              "aperture": "1.6637544366004915",
+              "shutter_speed": "6.92349016059715",
+              "metering_mode": "5"
+            }
+          ]
+        },
+        "camera_metadata": {
+          "has_camera_metadata": true
+        }
+      },
+      "title": "",
+      "cross_post_source": {
+        "source_app": "FB"
+      }
+    },
+    {
+      "uri": "media/stories/202601/18073950866062218.mp4",
+      "creation_timestamp": 1767596835,
+      "media_metadata": {
+        "video_metadata": {
+          "exif_data": [
+            {
+              "device_id": "07A94F4D-9968-4848-AF52-38F646E94907",
+              "camera_position": "unknown",
+              "source_type": "library"
+            }
+          ]
+        },
+        "camera_metadata": {
+          "has_camera_metadata": true
+        }
+      },
+      "title": "",
+      "cross_post_source": {
+        "source_app": "FB"
+      },
+      "dubbing_info": [
+        
+      ],
+      "media_variants": [
+        
+      ]
+    },
+    {
+      "uri": "media/stories/202601/18555206197028967.mp4",
+      "creation_timestamp": 1767596584,
+      "media_metadata": {
+        "video_metadata": {
+          "music_genre": "Britpop Music, Electronic & Dance Music, Electronica Music, Indie Music, Neo-Psychedelic Music",
+          "exif_data": [
+            {
+              "latitude": -38.661237493701,
+              "longitude": 143.10564160341
+            },
+            {
+              "iso": 80,
+              "focal_length": "6.764999866370901",
+              "lens_model": "iPhone 17 Pro Max back triple camera 6.765mm f/1.78",
+              "software": "26.1",
+              "device_id": "07A94F4D-9968-4848-AF52-38F646E94907",
+              "scene_type": 1,
+              "camera_position": "back",
+              "lens_make": "Apple",
+              "date_time_digitized": "2026:01:04 17:36:32",
+              "date_time_original": "2026:01:04 17:36:32",
+              "source_type": "library",
+              "aperture": "1.6637544366004915",
+              "shutter_speed": "13.150208855472014",
+              "metering_mode": "5"
+            }
+          ]
+        },
+        "camera_metadata": {
+          "has_camera_metadata": true
+        }
+      },
+      "title": "",
+      "cross_post_source": {
+        "source_app": "FB"
+      },
+      "dubbing_info": [
+        
+      ],
+      "media_variants": [
+        
+      ]
+    },
+    {
+      "uri": "media/stories/202601/18106727092675149.jpg",
+      "creation_timestamp": 1767578207,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "device_id": "07A94F4D-9968-4848-AF52-38F646E94907",
+              "camera_position": "unknown",
+              "source_type": "unknown"
+            }
+          ]
+        },
+        "camera_metadata": {
+          "has_camera_metadata": false
+        }
+      },
+      "title": "",
+      "cross_post_source": {
+        "source_app": "FB"
+      }
+    },
+    {
+      "uri": "media/stories/202601/17982685616783473.jpg",
+      "creation_timestamp": 1767531634,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "device_id": "07A94F4D-9968-4848-AF52-38F646E94907",
+              "camera_position": "unknown",
+              "source_type": "unknown"
+            }
+          ]
+        },
+        "camera_metadata": {
+          "has_camera_metadata": false
+        }
+      },
+      "title": "",
+      "cross_post_source": {
+        "source_app": "FB"
+      }
+    },
+    {
+      "uri": "media/stories/202601/18500408953076492.mp4",
+      "creation_timestamp": 1767410598,
+      "media_metadata": {
+        "video_metadata": {
+          "music_genre": "Alternative Hip Hop & Rap Music, Hip Hop & Rap Music, Urban Contemporary Music",
+          "exif_data": [
+            {
+              "device_id": "07A94F4D-9968-4848-AF52-38F646E94907",
+              "camera_position": "front",
+              "source_type": "library"
+            }
+          ]
+        },
+        "camera_metadata": {
+          "has_camera_metadata": false
+        }
+      },
+      "title": "",
+      "cross_post_source": {
+        "source_app": "FB"
+      },
+      "dubbing_info": [
+        
+      ],
+      "media_variants": [
+        
+      ]
+    },
+    {
+      "uri": "media/stories/202512/18053139917381216.mp4",
+      "creation_timestamp": 1766746309,
+      "media_metadata": {
+        "video_metadata": {
+          "exif_data": [
+            {
+              "iso": 160,
+              "focal_length": "16.890625",
+              "lens_model": "iPhone 17 Pro Max back triple camera 16.8906mm f/2.79883",
+              "software": "26.0",
+              "device_id": "07A94F4D-9968-4848-AF52-38F646E94907",
+              "scene_type": 1,
+              "camera_position": "back",
+              "lens_make": "Apple",
+              "date_time_digitized": "2025:09:26 17:26:11",
+              "date_time_original": "2025:09:26 17:26:11",
+              "source_type": "library",
+              "aperture": "2.9696457846887574",
+              "shutter_speed": "6.921914871899561",
+              "metering_mode": "5"
+            }
+          ]
+        },
+        "camera_metadata": {
+          "has_camera_metadata": true
+        }
+      },
+      "title": "Happy birthday heencyy @rc_393",
+      "cross_post_source": {
+        "source_app": "FB"
+      },
+      "dubbing_info": [
+        
+      ],
+      "media_variants": [
+        
+      ]
+    },
+    {
+      "uri": "media/stories/202512/18092377142485449.mp4",
+      "creation_timestamp": 1766746044,
+      "media_metadata": {
+        "video_metadata": {
+          "exif_data": [
+            {
+              "iso": 80,
+              "focal_length": "6.86",
+              "lens_model": "iPhone 15 Pro Max back triple camera 6.86mm f/1.78",
+              "software": "17.1",
+              "device_id": "07A94F4D-9968-4848-AF52-38F646E94907",
+              "scene_type": 1,
+              "camera_position": "back",
+              "lens_make": "Apple",
+              "date_time_digitized": "2024:02:13 14:42:53",
+              "date_time_original": "2024:02:13 14:42:53",
+              "source_type": "library",
+              "aperture": "1.6637544824637274",
+              "shutter_speed": "11.812627498980008",
+              "metering_mode": "5"
+            }
+          ]
+        },
+        "camera_metadata": {
+          "has_camera_metadata": true
+        }
+      },
+      "title": "Happy birthday didi \u00e2\u0099\u00a5\u00ef\u00b8\u008f",
+      "cross_post_source": {
+        "source_app": "FB"
+      },
+      "dubbing_info": [
+        
+      ],
+      "media_variants": [
+        
+      ]
+    },
+    {
+      "uri": "media/stories/202512/18078767714180441.mp4",
+      "creation_timestamp": 1764936181,
+      "media_metadata": {
+        "video_metadata": {
+          "exif_data": [
+            {
+              "device_id": "07A94F4D-9968-4848-AF52-38F646E94907",
+              "camera_position": "unknown",
+              "date_time_original": "2025:12:05 12:52:48",
+              "source_type": "library"
+            }
+          ]
+        },
+        "camera_metadata": {
+          "has_camera_metadata": false
+        }
+      },
+      "title": "",
+      "cross_post_source": {
+        "source_app": "FB"
+      },
+      "dubbing_info": [
+        
+      ],
+      "media_variants": [
+        
+      ]
+    },
+    {
+      "uri": "media/stories/202512/18095532796687342.jpg",
+      "creation_timestamp": 1764836491,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "iso": 80,
+              "focal_length": "6.764999865652793",
+              "lens_model": "iPhone 15 Pro Max back triple camera 6.765mm f/1.78",
+              "scene_capture_type": "standard",
+              "software": "18.2",
+              "device_id": "07A94F4D-9968-4848-AF52-38F646E94907",
+              "scene_type": 1,
+              "camera_position": "back",
+              "lens_make": "Apple",
+              "date_time_digitized": "2024:12:19 12:30:09",
+              "date_time_original": "2024:12:19 12:30:09",
+              "source_type": "library",
+              "aperture": "1.6637544366004915",
+              "shutter_speed": "10.868173488087965",
+              "metering_mode": "5"
+            }
+          ]
+        },
+        "camera_metadata": {
+          "has_camera_metadata": true
+        }
+      },
+      "title": "HAPPY BIRTHDAY MAIJU\n@BIST5445  @SUSHIL_KHATRI  @SUBRIDHI_LAMSAL",
+      "cross_post_source": {
+        "source_app": "FB"
+      }
+    },
+    {
+      "uri": "media/stories/202512/17932290312011466.jpg",
+      "creation_timestamp": 1764836283,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "iso": 80,
+              "focal_length": "6.764999865652793",
+              "lens_model": "iPhone 15 Pro Max back triple camera 6.765mm f/1.78",
+              "scene_capture_type": "standard",
+              "software": "18.2",
+              "device_id": "07A94F4D-9968-4848-AF52-38F646E94907",
+              "scene_type": 1,
+              "camera_position": "back",
+              "lens_make": "Apple",
+              "date_time_digitized": "2025:01:25 15:30:29",
+              "date_time_original": "2025:01:25 15:30:29",
+              "source_type": "library",
+              "aperture": "1.6637544366004915",
+              "shutter_speed": "12.646166350582497",
+              "metering_mode": "3"
+            }
+          ]
+        },
+        "camera_metadata": {
+          "has_camera_metadata": true
+        }
+      },
+      "title": "HAPPY BIRTHDAY @CHETTRI.AASTHA",
+      "cross_post_source": {
+        "source_app": "FB"
+      }
+    },
+    {
+      "uri": "media/stories/202511/18072640379191971.mp4",
+      "creation_timestamp": 1762079914,
+      "media_metadata": {
+        "video_metadata": {
+          "exif_data": [
+            {
+              "latitude": 28.617717986346,
+              "longitude": 82.618676904682
+            },
+            {
+              "device_id": "07A94F4D-9968-4848-AF52-38F646E94907",
+              "camera_position": "unknown",
+              "source_type": "library"
+            }
+          ]
+        },
+        "camera_metadata": {
+          "has_camera_metadata": false
+        }
+      },
+      "title": "Oct. Nepal",
+      "cross_post_source": {
+        "source_app": "FB"
+      },
+      "dubbing_info": [
+        
+      ],
+      "media_variants": [
+        
+      ]
+    },
+    {
+      "uri": "media/stories/202510/18404761615189306.mp4",
+      "creation_timestamp": 1761394730,
+      "media_metadata": {
+        "video_metadata": {
+          "exif_data": [
+            {
+              "latitude": 27.713776,
+              "longitude": 85.310244
+            },
+            {
+              "iso": 50,
+              "focal_length": "5.1",
+              "lens_model": "iPhone 13 back dual wide camera 5.1mm f/1.6",
+              "software": "18.1.1",
+              "device_id": "07A94F4D-9968-4848-AF52-38F646E94907",
+              "scene_type": 1,
+              "camera_position": "back",
+              "lens_make": "Apple",
+              "date_time_digitized": "2025:10:25 16:47:01",
+              "date_time_original": "2025:10:25 16:47:01",
+              "source_type": "library",
+              "aperture": "1.3561438092556088",
+              "shutter_speed": "9.702749878387273",
+              "metering_mode": "3"
+            }
+          ]
+        },
+        "camera_metadata": {
+          "has_camera_metadata": true
+        }
+      },
+      "title": "",
+      "cross_post_source": {
+        "source_app": "FB"
+      },
+      "dubbing_info": [
+        
+      ],
+      "media_variants": [
+        
+      ]
+    },
+    {
+      "uri": "media/stories/202510/17911528311233726.mp4",
+      "creation_timestamp": 1761202742,
+      "media_metadata": {
+        "video_metadata": {
+          "exif_data": [
+            {
+              "iso": 100,
+              "focal_length": "2.71",
+              "lens_model": "iPhone 13 front camera 2.71mm f/2.2",
+              "scene_capture_type": "standard",
+              "software": "26.0",
+              "device_id": "07A94F4D-9968-4848-AF52-38F646E94907",
+              "scene_type": 1,
+              "camera_position": "front",
+              "lens_make": "Apple",
+              "date_time_digitized": "2025:10:23 12:12:42",
+              "date_time_original": "2025:10:23 12:12:42",
+              "source_type": "library",
+              "aperture": "2.2750070476914215",
+              "shutter_speed": "5.91458622283865",
+              "metering_mode": "5"
+            }
+          ]
+        },
+        "camera_metadata": {
+          "has_camera_metadata": true
+        }
+      },
+      "title": "Happy Bhaitika",
+      "cross_post_source": {
+        "source_app": "FB"
+      },
+      "dubbing_info": [
+        
+      ],
+      "media_variants": [
+        
+      ]
+    },
+    {
+      "uri": "media/stories/202510/18330804493239166.mp4",
+      "creation_timestamp": 1760673243,
+      "media_metadata": {
+        "video_metadata": {
+          "music_genre": "Contemporary Folk Music, Folk Music, Indian Pop Music, Pop Music",
+          "exif_data": [
+            {
+              "iso": 102,
+              "focal_length": "3",
+              "scene_capture_type": "landscape",
+              "software": "HD7.01.01.90.00",
+              "device_id": "07A94F4D-9968-4848-AF52-38F646E94907",
+              "scene_type": 1,
+              "camera_position": "unknown",
+              "date_time_digitized": "2016:03:21 05:26:33",
+              "date_time_original": "2016:03:21 05:26:33",
+              "source_type": "library",
+              "aperture": "2.97",
+              "shutter_speed": "10",
+              "metering_mode": "1"
+            }
+          ]
+        },
+        "camera_metadata": {
+          "has_camera_metadata": true
+        }
+      },
+      "title": "",
+      "cross_post_source": {
+        "source_app": "FB"
+      },
+      "dubbing_info": [
+        
+      ],
+      "media_variants": [
+        
+      ]
+    },
+    {
+      "uri": "media/stories/202510/17908494792234497.mp4",
+      "creation_timestamp": 1759422940,
+      "media_metadata": {
+        "video_metadata": {
+          "exif_data": [
+            {
+              "iso": 200,
+              "focal_length": "6.764999865652793",
+              "lens_model": "iPhone 17 Pro Max back triple camera 6.765mm f/1.78",
+              "software": "26.0",
+              "device_id": "07A94F4D-9968-4848-AF52-38F646E94907",
+              "scene_type": 1,
+              "camera_position": "back",
+              "lens_make": "Apple",
+              "date_time_digitized": "2025:10:02 13:47:27",
+              "date_time_original": "2025:10:02 13:47:27",
+              "source_type": "library",
+              "aperture": "1.6637544366004915",
+              "shutter_speed": "5.6434955626440955",
+              "metering_mode": "5"
+            }
+          ]
+        },
+        "camera_metadata": {
+          "has_camera_metadata": true
+        }
+      },
+      "title": "",
+      "cross_post_source": {
+        "source_app": "FB"
+      },
+      "dubbing_info": [
+        
+      ],
+      "media_variants": [
+        
+      ]
+    },
+    {
+      "uri": "media/stories/202509/18053496461533590.jpg",
+      "creation_timestamp": 1758599350,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "device_id": "07A94F4D-9968-4848-AF52-38F646E94907",
+              "camera_position": "unknown",
+              "date_time_original": "2025:09:23 09:33:47",
+              "source_type": "library"
+            }
+          ]
+        },
+        "camera_metadata": {
+          "has_camera_metadata": false
+        }
+      },
+      "title": "Happy birthday @k.cmamta",
+      "cross_post_source": {
+        "source_app": "FB"
+      }
+    },
+    {
+      "uri": "media/stories/202509/18287264977253210.jpg",
+      "creation_timestamp": 1757423866,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "device_id": "07A94F4D-9968-4848-AF52-38F646E94907",
+              "camera_position": "unknown",
+              "source_type": "unknown"
+            }
+          ]
+        },
+        "camera_metadata": {
+          "has_camera_metadata": false
+        }
+      },
+      "title": "",
+      "cross_post_source": {
+        "source_app": "FB"
+      }
+    },
+    {
+      "uri": "media/stories/202508/18074717597000349.jpg",
+      "creation_timestamp": 1755439240,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "device_id": "07A94F4D-9968-4848-AF52-38F646E94907",
+              "camera_position": "unknown",
+              "date_time_original": "2025:08:17 23:59:48",
+              "source_type": "library"
+            }
+          ]
+        },
+        "camera_metadata": {
+          "has_camera_metadata": false
+        }
+      },
+      "title": "Happy birthday mitra",
+      "cross_post_source": {
+        "source_app": "FB"
+      }
+    }
+  ]
+}

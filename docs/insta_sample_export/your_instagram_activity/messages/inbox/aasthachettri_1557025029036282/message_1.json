@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Aastha Chettri"
+    },
+    {
+      "name": "Ashish Acharya"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aastha Chettri",
+      "timestamp_ms": 1764842576922,
+      "content": "Thank you ashish",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ashish Acharya",
+      "timestamp_ms": 1764836291464,
+      "share": {
+        "link": "https://www.instagram.com/stories/ashis.__h/3780043210652472746"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Aastha Chettri",
+  "is_still_participant": true,
+  "thread_path": "inbox/aasthachettri_1557025029036282",
+  "magic_words": [
+    
+  ]
+}

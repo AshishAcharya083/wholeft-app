@@ -1,0 +1,42 @@
+{
+  "account_history_registration_info": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Username": {
+          "href": "",
+          "value": "Ashish Acharya",
+          "timestamp": 0
+        },
+        "IP Address": {
+          "href": "",
+          "value": "110.44.125.24",
+          "timestamp": 0
+        },
+        "Time": {
+          "href": "",
+          "value": "",
+          "timestamp": 1548841153
+        },
+        "Email": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        },
+        "Phone Number": {
+          "href": "",
+          "value": "9812582860",
+          "timestamp": 0
+        },
+        "Device": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

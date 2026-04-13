@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Phuyal"
+    },
+    {
+      "name": "Ashish Acharya"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Phuyal",
+      "timestamp_ms": 1767022902435,
+      "content": "Aile haina 1barsa huna lagisakyo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ashish Acharya",
+      "timestamp_ms": 1767001100738,
+      "content": "K ho pawan bhurtel le udaidiyo ta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ashish Acharya",
+      "timestamp_ms": 1767001100135,
+      "share": {
+        "original_content_owner": "kushal_bhurtel14"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Phuyal",
+      "timestamp_ms": 1755451264729,
+      "content": "Haha mula",
+      "share": {
+        "link": "https://www.instagram.com/stories/ashis.__h/3701215091360194179"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ashish Acharya",
+      "timestamp_ms": 1755439247905,
+      "share": {
+        "link": "https://www.instagram.com/stories/ashis.__h/3701215091360194179"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pawan Phuyal",
+  "is_still_participant": true,
+  "thread_path": "inbox/pawanphuyal_527275828677879",
+  "magic_words": [
+    
+  ]
+}

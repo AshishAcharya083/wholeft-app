@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Pra Tiv Shrestha"
+    },
+    {
+      "name": "Ashish Acharya"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pra Tiv Shrestha",
+      "timestamp_ms": 1761393151436,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pra Tiv Shrestha",
+  "is_still_participant": true,
+  "thread_path": "inbox/prativshrestha_530121981726597",
+  "magic_words": [
+    
+  ]
+}

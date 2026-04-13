@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Sushila Acharya"
+    },
+    {
+      "name": "Ashish Acharya"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sushila Acharya",
+      "timestamp_ms": 1766751534576,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ashish Acharya",
+      "timestamp_ms": 1766746064258,
+      "share": {
+        "link": "https://www.instagram.com/stories/ashis.__h/3796063440789038407"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sushila Acharya",
+  "is_still_participant": true,
+  "thread_path": "inbox/sushilaacharya_427460435326086",
+  "magic_words": [
+    
+  ]
+}

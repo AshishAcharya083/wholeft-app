@@ -1,0 +1,40 @@
+{
+  "devices_devices": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Last Login": {
+          "href": "",
+          "value": "",
+          "timestamp": 1766412044
+        },
+        "User Agent": {
+          "href": "",
+          "value": "Instagram 410.0.0.29.70 (iPhone14,5; iOS 26_0_1; en_GB; en-GB; scale=3.00; 1170x2532; 843189213) AppleWebKit/420+",
+          "timestamp": 0
+        }
+      }
+    },
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Last Login": {
+          "href": "",
+          "value": "",
+          "timestamp": 1763246586
+        },
+        "User Agent": {
+          "href": "",
+          "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

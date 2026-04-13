@@ -1,0 +1,714 @@
+{
+  "apps_and_websites_off_meta_activity": [
+    {
+      "name": "Bet365 Marketing Operations",
+      "events": [
+        {
+          "id": 592621423018823,
+          "type": "CUSTOM",
+          "timestamp": 1768749180
+        },
+        {
+          "id": 592621423018823,
+          "type": "CUSTOM",
+          "timestamp": 1757688840
+        },
+        {
+          "id": 592621423018823,
+          "type": "CUSTOM",
+          "timestamp": 1755182160
+        }
+      ]
+    },
+    {
+      "name": "Cloudflare, Inc.",
+      "events": [
+        {
+          "id": 621936882201793,
+          "type": "PAGE_VIEW",
+          "timestamp": 1767998280
+        },
+        {
+          "id": 621936882201793,
+          "type": "PAGE_VIEW",
+          "timestamp": 1767962100
+        },
+        {
+          "id": 621936882201793,
+          "type": "PAGE_VIEW",
+          "timestamp": 1767960960
+        },
+        {
+          "id": 621936882201793,
+          "type": "PAGE_VIEW",
+          "timestamp": 1767960660
+        }
+      ]
+    },
+    {
+      "name": "Europcar",
+      "events": [
+        {
+          "id": 1946930295452844,
+          "type": "PAGE_VIEW",
+          "timestamp": 1767702780
+        }
+      ]
+    },
+    {
+      "name": "Adobe",
+      "events": [
+        {
+          "id": 1772359959706965,
+          "type": "VIEW_CONTENT",
+          "timestamp": 1764991200
+        },
+        {
+          "id": 1772359959706965,
+          "type": "CUSTOM",
+          "timestamp": 1764989160
+        },
+        {
+          "id": 1772359959706965,
+          "type": "PAGE_VIEW",
+          "timestamp": 1764988140
+        },
+        {
+          "id": 1772359959706965,
+          "type": "CUSTOM",
+          "timestamp": 1762585080
+        },
+        {
+          "id": 1772359959706965,
+          "type": "PAGE_VIEW",
+          "timestamp": 1761642900
+        },
+        {
+          "id": 1772359959706965,
+          "type": "VIEW_CONTENT",
+          "timestamp": 1761622500
+        }
+      ]
+    },
+    {
+      "name": "YesStyle.com Ltd",
+      "events": [
+        {
+          "id": 1659121437676791,
+          "type": "PAGE_VIEW",
+          "timestamp": 1764366540
+        },
+        {
+          "id": 1659121437676791,
+          "type": "PAGE_VIEW",
+          "timestamp": 1764310500
+        },
+        {
+          "id": 1659121437676791,
+          "type": "PAGE_VIEW",
+          "timestamp": 1764310440
+        },
+        {
+          "id": 1659121437676791,
+          "type": "ADD_TO_CART",
+          "timestamp": 1764298380
+        },
+        {
+          "id": 1659121437676791,
+          "type": "PAGE_VIEW",
+          "timestamp": 1764297780
+        },
+        {
+          "id": 1659121437676791,
+          "type": "ADD_TO_CART",
+          "timestamp": 1755856320
+        },
+        {
+          "id": 1659121437676791,
+          "type": "PAGE_VIEW",
+          "timestamp": 1755855540
+        }
+      ]
+    },
+    {
+      "name": "REA Group Audience Solutions",
+      "events": [
+        {
+          "id": 878294318939083,
+          "type": "VIEW_CONTENT",
+          "timestamp": 1763798100
+        },
+        {
+          "id": 878294318939083,
+          "type": "VIEW_CONTENT",
+          "timestamp": 1762573440
+        },
+        {
+          "id": 878294318939083,
+          "type": "VIEW_CONTENT",
+          "timestamp": 1756622220
+        },
+        {
+          "id": 878294318939083,
+          "type": "VIEW_CONTENT",
+          "timestamp": 1753913520
+        },
+        {
+          "id": 878294318939083,
+          "type": "VIEW_CONTENT",
+          "timestamp": 1753826820
+        },
+        {
+          "id": 878294318939083,
+          "type": "VIEW_CONTENT",
+          "timestamp": 1753600440
+        }
+      ]
+    },
+    {
+      "name": "Pearson North America",
+      "events": [
+        {
+          "id": 936995542982585,
+          "type": "PURCHASE",
+          "timestamp": 1763539920
+        }
+      ]
+    },
+    {
+      "name": "Pearson English",
+      "events": [
+        {
+          "id": 455600187086563,
+          "type": "PURCHASE",
+          "timestamp": 1763539920
+        }
+      ]
+    },
+    {
+      "name": "CarAdvice",
+      "events": [
+        {
+          "id": 754567515023641,
+          "type": "SEARCH",
+          "timestamp": 1763524620
+        },
+        {
+          "id": 754567515023641,
+          "type": "VIEW_CONTENT",
+          "timestamp": 1762917000
+        },
+        {
+          "id": 754567515023641,
+          "type": "SEARCH",
+          "timestamp": 1762848300
+        },
+        {
+          "id": 754567515023641,
+          "type": "VIEW_CONTENT",
+          "timestamp": 1762824420
+        },
+        {
+          "id": 754567515023641,
+          "type": "SEARCH",
+          "timestamp": 1762565340
+        },
+        {
+          "id": 754567515023641,
+          "type": "SEARCH",
+          "timestamp": 1762160460
+        },
+        {
+          "id": 754567515023641,
+          "type": "ADD_TO_WISHLIST",
+          "timestamp": 1761649380
+        },
+        {
+          "id": 754567515023641,
+          "type": "VIEW_CONTENT",
+          "timestamp": 1761649140
+        }
+      ]
+    },
+    {
+      "name": "Criteo PTY",
+      "events": [
+        {
+          "id": 1541830826092048,
+          "type": "PAGE_VIEW",
+          "timestamp": 1762850820
+        },
+        {
+          "id": 1541830826092048,
+          "type": "PAGE_VIEW",
+          "timestamp": 1762824420
+        },
+        {
+          "id": 1541830826092048,
+          "type": "PAGE_VIEW",
+          "timestamp": 1762036080
+        },
+        {
+          "id": 1541830826092048,
+          "type": "PAGE_VIEW",
+          "timestamp": 1762035240
+        },
+        {
+          "id": 1541830826092048,
+          "type": "PAGE_VIEW",
+          "timestamp": 1761628020
+        },
+        {
+          "id": 1541830826092048,
+          "type": "PAGE_VIEW",
+          "timestamp": 1761242100
+        }
+      ]
+    },
+    {
+      "name": "INOV8",
+      "events": [
+        {
+          "id": 2237635662954930,
+          "type": "PAGE_VIEW",
+          "timestamp": 1762324020
+        }
+      ]
+    },
+    {
+      "name": "Notion",
+      "events": [
+        {
+          "id": 499229960464487,
+          "type": "CUSTOM",
+          "timestamp": 1762154100
+        },
+        {
+          "id": 499229960464487,
+          "type": "CUSTOM",
+          "timestamp": 1762154040
+        }
+      ]
+    },
+    {
+      "name": "carsguide.com.au",
+      "events": [
+        {
+          "id": 1541830826092048,
+          "type": "PAGE_VIEW",
+          "timestamp": 1762037760
+        }
+      ]
+    },
+    {
+      "name": "Fairfax Media",
+      "events": [
+        {
+          "id": 987117307987958,
+          "type": "PAGE_VIEW",
+          "timestamp": 1762031700
+        }
+      ]
+    },
+    {
+      "name": "Air India",
+      "events": [
+        {
+          "id": 3419628744920051,
+          "type": "PAGE_VIEW",
+          "timestamp": 1761565740
+        },
+        {
+          "id": 3419628744920051,
+          "type": "PAGE_VIEW",
+          "timestamp": 1761565440
+        },
+        {
+          "id": 3419628744920051,
+          "type": "PAGE_VIEW",
+          "timestamp": 1761503820
+        },
+        {
+          "id": 3419628744920051,
+          "type": "CUSTOM",
+          "timestamp": 1761503340
+        },
+        {
+          "id": 3419628744920051,
+          "type": "PAGE_VIEW",
+          "timestamp": 1761488280
+        },
+        {
+          "id": 3419628744920051,
+          "type": "PAGE_VIEW",
+          "timestamp": 1761416100
+        },
+        {
+          "id": 3419628744920051,
+          "type": "PAGE_VIEW",
+          "timestamp": 1761313560
+        },
+        {
+          "id": 3419628744920051,
+          "type": "CUSTOM",
+          "timestamp": 1761161940
+        },
+        {
+          "id": 3419628744920051,
+          "type": "CUSTOM",
+          "timestamp": 1760622960
+        },
+        {
+          "id": 3419628744920051,
+          "type": "CUSTOM",
+          "timestamp": 1758276420
+        },
+        {
+          "id": 3419628744920051,
+          "type": "CUSTOM",
+          "timestamp": 1757801760
+        },
+        {
+          "id": 3419628744920051,
+          "type": "PAGE_VIEW",
+          "timestamp": 1757750340
+        },
+        {
+          "id": 3419628744920051,
+          "type": "CUSTOM",
+          "timestamp": 1756549680
+        },
+        {
+          "id": 3419628744920051,
+          "type": "CUSTOM",
+          "timestamp": 1756543020
+        }
+      ]
+    },
+    {
+      "name": "Booking.com",
+      "events": [
+        {
+          "id": 405133399621612,
+          "type": "PAGE_VIEW",
+          "timestamp": 1759723560
+        },
+        {
+          "id": 405133399621612,
+          "type": "PAGE_VIEW",
+          "timestamp": 1759722960
+        },
+        {
+          "id": 405133399621612,
+          "type": "PAGE_VIEW",
+          "timestamp": 1759721940
+        },
+        {
+          "id": 405133399621612,
+          "type": "PAGE_VIEW",
+          "timestamp": 1759513860
+        },
+        {
+          "id": 405133399621612,
+          "type": "PAGE_VIEW",
+          "timestamp": 1759513380
+        },
+        {
+          "id": 405133399621612,
+          "type": "PAGE_VIEW",
+          "timestamp": 1759500300
+        },
+        {
+          "id": 405133399621612,
+          "type": "PAGE_VIEW",
+          "timestamp": 1759498200
+        },
+        {
+          "id": 405133399621612,
+          "type": "PAGE_VIEW",
+          "timestamp": 1759497780
+        },
+        {
+          "id": 405133399621612,
+          "type": "PAGE_VIEW",
+          "timestamp": 1759225860
+        },
+        {
+          "id": 405133399621612,
+          "type": "PAGE_VIEW",
+          "timestamp": 1759144260
+        },
+        {
+          "id": 405133399621612,
+          "type": "PAGE_VIEW",
+          "timestamp": 1759130700
+        },
+        {
+          "id": 405133399621612,
+          "type": "PAGE_VIEW",
+          "timestamp": 1759129560
+        },
+        {
+          "id": 405133399621612,
+          "type": "PAGE_VIEW",
+          "timestamp": 1759129140
+        },
+        {
+          "id": 405133399621612,
+          "type": "PAGE_VIEW",
+          "timestamp": 1759118880
+        },
+        {
+          "id": 405133399621612,
+          "type": "PAGE_VIEW",
+          "timestamp": 1759117920
+        },
+        {
+          "id": 405133399621612,
+          "type": "PAGE_VIEW",
+          "timestamp": 1759040880
+        },
+        {
+          "id": 405133399621612,
+          "type": "PAGE_VIEW",
+          "timestamp": 1759036920
+        },
+        {
+          "id": 405133399621612,
+          "type": "PAGE_VIEW",
+          "timestamp": 1758953460
+        },
+        {
+          "id": 405133399621612,
+          "type": "PAGE_VIEW",
+          "timestamp": 1758952740
+        }
+      ]
+    },
+    {
+      "name": "Quality Mart",
+      "events": [
+        {
+          "id": 1109189237216921,
+          "type": "VIEW_CONTENT",
+          "timestamp": 1758151920
+        }
+      ]
+    },
+    {
+      "name": "Officeworks AU",
+      "events": [
+        {
+          "id": 624830414909917,
+          "type": "PAGE_VIEW",
+          "timestamp": 1757803140
+        },
+        {
+          "id": 624830414909917,
+          "type": "PAGE_VIEW",
+          "timestamp": 1757799840
+        },
+        {
+          "id": 624830414909917,
+          "type": "PAGE_VIEW",
+          "timestamp": 1757752740
+        },
+        {
+          "id": 624830414909917,
+          "type": "PAGE_VIEW",
+          "timestamp": 1757742780
+        },
+        {
+          "id": 624830414909917,
+          "type": "PAGE_VIEW",
+          "timestamp": 1757741220
+        }
+      ]
+    },
+    {
+      "name": "JB Hi-Fi",
+      "events": [
+        {
+          "id": 818733498142360,
+          "type": "PAGE_VIEW",
+          "timestamp": 1757765940
+        },
+        {
+          "id": 818733498142360,
+          "type": "PAGE_VIEW",
+          "timestamp": 1757764380
+        },
+        {
+          "id": 818733498142360,
+          "type": "INITIATE_CHECKOUT",
+          "timestamp": 1757747580
+        },
+        {
+          "id": 818733498142360,
+          "type": "INITIATE_CHECKOUT",
+          "timestamp": 1757729820
+        },
+        {
+          "id": 818733498142360,
+          "type": "INITIATE_CHECKOUT",
+          "timestamp": 1757729460
+        },
+        {
+          "id": 818733498142360,
+          "type": "PAGE_VIEW",
+          "timestamp": 1757476020
+        },
+        {
+          "id": 818733498142360,
+          "type": "SEARCH",
+          "timestamp": 1757232180
+        },
+        {
+          "id": 818733498142360,
+          "type": "SEARCH",
+          "timestamp": 1757226720
+        },
+        {
+          "id": 818733498142360,
+          "type": "SEARCH",
+          "timestamp": 1757226540
+        },
+        {
+          "id": 818733498142360,
+          "type": "PAGE_VIEW",
+          "timestamp": 1757211900
+        },
+        {
+          "id": 818733498142360,
+          "type": "PAGE_VIEW",
+          "timestamp": 1756890600
+        },
+        {
+          "id": 818733498142360,
+          "type": "PAGE_VIEW",
+          "timestamp": 1756524120
+        },
+        {
+          "id": 818733498142360,
+          "type": "PAGE_VIEW",
+          "timestamp": 1756522740
+        },
+        {
+          "id": 818733498142360,
+          "type": "PAGE_VIEW",
+          "timestamp": 1756521780
+        },
+        {
+          "id": 818733498142360,
+          "type": "PAGE_VIEW",
+          "timestamp": 1756452120
+        },
+        {
+          "id": 818733498142360,
+          "type": "PAGE_VIEW",
+          "timestamp": 1756331880
+        },
+        {
+          "id": 818733498142360,
+          "type": "PAGE_VIEW",
+          "timestamp": 1755752580
+        },
+        {
+          "id": 818733498142360,
+          "type": "PAGE_VIEW",
+          "timestamp": 1755752340
+        },
+        {
+          "id": 818733498142360,
+          "type": "PAGE_VIEW",
+          "timestamp": 1755333600
+        },
+        {
+          "id": 818733498142360,
+          "type": "PAGE_VIEW",
+          "timestamp": 1755332760
+        },
+        {
+          "id": 818733498142360,
+          "type": "PAGE_VIEW",
+          "timestamp": 1755331620
+        },
+        {
+          "id": 818733498142360,
+          "type": "PAGE_VIEW",
+          "timestamp": 1755081720
+        },
+        {
+          "id": 818733498142360,
+          "type": "PAGE_VIEW",
+          "timestamp": 1754801340
+        },
+        {
+          "id": 818733498142360,
+          "type": "SEARCH",
+          "timestamp": 1754631900
+        },
+        {
+          "id": 818733498142360,
+          "type": "PAGE_VIEW",
+          "timestamp": 1754211180
+        },
+        {
+          "id": 818733498142360,
+          "type": "PAGE_VIEW",
+          "timestamp": 1753677480
+        },
+        {
+          "id": 818733498142360,
+          "type": "PAGE_VIEW",
+          "timestamp": 1753676640
+        },
+        {
+          "id": 818733498142360,
+          "type": "PAGE_VIEW",
+          "timestamp": 1753590540
+        }
+      ]
+    },
+    {
+      "name": "First Table",
+      "events": [
+        {
+          "id": 1592558894300978,
+          "type": "PAGE_VIEW",
+          "timestamp": 1757040900
+        }
+      ]
+    },
+    {
+      "name": "Lila Beauty",
+      "events": [
+        {
+          "id": 465556237273692,
+          "type": "VIEW_CONTENT",
+          "timestamp": 1755855180
+        },
+        {
+          "id": 465556237273692,
+          "type": "VIEW_CONTENT",
+          "timestamp": 1755854940
+        }
+      ]
+    },
+    {
+      "name": "LG ThinQ",
+      "events": [
+        {
+          "id": 942637515795204,
+          "type": "RESULT_SENT",
+          "timestamp": 1754482500
+        },
+        {
+          "id": 942637515795204,
+          "type": "RESULT_SENT",
+          "timestamp": 1754482440
+        }
+      ]
+    }
+  ]
+}

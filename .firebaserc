@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "wholeft-app-dev",
+    "dev": "wholeft-app-dev",
+    "prod": "wholeft-app-prod"
+  }
+}

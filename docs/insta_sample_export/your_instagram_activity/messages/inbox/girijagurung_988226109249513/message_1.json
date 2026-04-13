@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Girija Gurung"
+    },
+    {
+      "name": "Ashish Acharya"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Girija Gurung",
+      "timestamp_ms": 1768140229005,
+      "content": "yeta libiya tira",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ashish Acharya",
+      "timestamp_ms": 1768076473120,
+      "content": "Kata ho dai",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Girija Gurung",
+  "is_still_participant": true,
+  "thread_path": "inbox/girijagurung_988226109249513",
+  "magic_words": [
+    
+  ]
+}

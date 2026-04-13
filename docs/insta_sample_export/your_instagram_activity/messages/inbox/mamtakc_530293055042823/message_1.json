@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Mamta k.c"
+    },
+    {
+      "name": "Ashish Acharya"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mamta k.c",
+      "timestamp_ms": 1758604867258,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mamta k.c",
+      "timestamp_ms": 1758604637825,
+      "content": "Thank you so much ashish welcome to Surkhet \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ashish Acharya"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mamta k.c",
+      "timestamp_ms": 1758604625135,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ashish Acharya",
+      "timestamp_ms": 1758599361160,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mamta k.c"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/ashis.__h/3727724030196218147"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mamta k.c",
+  "is_still_participant": true,
+  "thread_path": "inbox/mamtakc_530293055042823",
+  "magic_words": [
+    
+  ]
+}

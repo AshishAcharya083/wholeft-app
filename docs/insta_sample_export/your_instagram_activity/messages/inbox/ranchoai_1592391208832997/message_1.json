@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Rancho AI"
+    },
+    {
+      "name": "Ashish Acharya"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rancho AI",
+      "timestamp_ms": 1754310304939,
+      "content": "Hi what you need to remember?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rancho AI",
+  "is_still_participant": true,
+  "thread_path": "inbox/ranchoai_1592391208832997",
+  "magic_words": [
+    
+  ]
+}
