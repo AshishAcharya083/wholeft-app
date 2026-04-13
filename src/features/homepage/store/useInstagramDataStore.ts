@@ -11,10 +11,14 @@ interface InstagramDataState {
   // Data
   data: InstagramData | null;
   summary: InstagramDataSummary | null;
-  
+
+  // Upload metadata
+  hasUploadedZip: boolean;
+  lastUploadedAt: number | null;
+
   // Upload state
   uploadState: UploadState;
-  
+
   // Actions
   setData: (data: InstagramData) => void;
   clearData: () => void;
@@ -32,14 +36,18 @@ export const useInstagramDataStore = create<InstagramDataState>((set, get) => ({
   // Initial state
   data: null,
   summary: null,
+  hasUploadedZip: false,
+  lastUploadedAt: null,
   uploadState: initialUploadState,
-  
+
   // Actions
   setData: (data: InstagramData) => {
     const summary = calculateSummary(data);
     set({
       data,
       summary,
+      hasUploadedZip: true,
+      lastUploadedAt: Date.now(),
       uploadState: {
         isUploading: false,
         progress: 100,
@@ -52,6 +60,8 @@ export const useInstagramDataStore = create<InstagramDataState>((set, get) => ({
     set({
       data: null,
       summary: null,
+      hasUploadedZip: false,
+      lastUploadedAt: null,
       uploadState: initialUploadState,
     });
   },
@@ -75,6 +85,8 @@ export const useInstagramDataStore = create<InstagramDataState>((set, get) => ({
 // Selectors
 export const selectData = (state: InstagramDataState) => state.data;
 export const selectSummary = (state: InstagramDataState) => state.summary;
+export const selectHasUploadedZip = (state: InstagramDataState) => state.hasUploadedZip;
+export const selectLastUploadedAt = (state: InstagramDataState) => state.lastUploadedAt;
 export const selectUploadState = (state: InstagramDataState) => state.uploadState;
 export const selectIsUploading = (state: InstagramDataState) => state.uploadState.isUploading;
 export const selectUploadError = (state: InstagramDataState) => state.uploadState.error;

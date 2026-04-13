@@ -11,7 +11,7 @@
 - **Framework:** React Native + Expo SDK 54 (Expo Router v6)
 - **Language:** TypeScript (strict mode)
 - **Navigation:** Expo Router (file-based, `app/` directory)
-- **State Management:** Zustand (feature-local stores) + Redux Toolkit (global/cross-feature state)
+- **State Management:** Zustand (all state — feature-local and cross-feature)
 - **Styling:** StyleSheet API (no third-party styling libraries)
 - **Charts:** react-native-gifted-charts
 - **File Parsing:** JSZip + expo-document-picker + expo-file-system
@@ -59,10 +59,6 @@ wholeft-app/
 │               ├── Follower.ts
 │               ├── Following.ts
 │               └── InstagramData.ts
-│
-├── src/store/                    # Global Redux store (cross-feature state only)
-│   ├── store.ts
-│   └── hooks.ts
 │
 ├── components/                   # Shared/global UI components (not feature-specific)
 │   ├── themed-text.tsx
@@ -144,7 +140,7 @@ Screen / Component
 
 - `app/` screens are thin wrappers — they import from a feature's `index.ts` barrel.
 - Features must **never** import directly from another feature's internals. Use the barrel or lift shared code to `src/store/`, `components/`, or `hooks/`.
-- Global Redux store (`src/store/`) is for state that genuinely spans multiple features. Prefer Zustand stores within a single feature.
+- For state that genuinely spans multiple features, lift it into a shared Zustand store under `src/features/<shared>/store/` or into the most relevant feature's store and export the selector.
 
 ---
 
@@ -190,8 +186,8 @@ Screen / Component
 
 ## State Management Rules
 
-- **Zustand** is preferred for feature-local state (upload state, parsed data, UI flags).
-- **Redux Toolkit** only when state must be shared across two or more features.
+- **Zustand only** — no Redux. One store per feature, located in `features/<name>/store/`.
+- Selectors are plain functions: `(state: StoreState) => state.field`.
 - Never call store setters inside `render` — only in event handlers or viewmodel methods.
 - Avoid storing derived data in state; compute it with selectors or in-render memos.
 
@@ -219,7 +215,7 @@ Screen / Component
 2. Define entities first (`entities/`), then services, then the store, then the viewmodel, then components/screen.
 3. Add the public barrel `index.ts` — export only what `app/` or other features need.
 4. If the feature needs a tab, add it under `app/(tabs)/` as a thin screen that imports from the barrel.
-5. If cross-feature state is needed, add a Redux slice to `src/store/`.
+5. If cross-feature state is needed, export its selector from the owning feature's store barrel.
 
 ---
 

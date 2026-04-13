@@ -11,14 +11,11 @@ import {
 import { useColorScheme } from '@/hooks/use-color-scheme';
 import { HomepageUploadCard } from '@/src/features/homepage/components/HomepageUploadCard';
 import { InstagramDataResults } from '@/src/features/homepage/components/InstagramDataResults';
-import { setHasUploadedZip } from '@/src/features/homepage/homepageSlice';
 import { instagramUploadViewModel } from '@/src/features/homepage/viewmodels';
 import { useInstagramDataStore, selectData, selectUploadState } from '@/src/features/homepage/store';
-import { useAppDispatch } from '@/src/store/hooks';
 import { PieChart } from 'react-native-gifted-charts';
 
 export default function HomepageUploadZip() {
-  const dispatch = useAppDispatch();
   const isDark = useColorScheme() === 'dark';
   
   // Get state from Zustand store
@@ -40,10 +37,6 @@ export default function HomepageUploadZip() {
   const handleUploadPress = async () => {
     try {
       await instagramUploadViewModel.handleUploadZip();
-      // Mark as uploaded in Redux store if successful
-      if (useInstagramDataStore.getState().data) {
-        dispatch(setHasUploadedZip(true));
-      }
     } catch (error) {
       console.error('Upload error:', error);
     }

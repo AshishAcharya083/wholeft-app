@@ -5,8 +5,7 @@ import { Alert, Platform, StyleSheet, useWindowDimensions, View } from 'react-na
 
 import { HapticTab } from '@/components/haptic-tab';
 import { useColorScheme } from '@/hooks/use-color-scheme';
-import { selectHasUploadedZip } from '@/src/features/homepage/homepageSlice';
-import { useAppSelector } from '@/src/store/hooks';
+import { useInstagramDataStore, selectHasUploadedZip } from '@/src/features/homepage/store';
 
 // Breakpoint for mobile vs tablet/desktop
 const MOBILE_BREAKPOINT = 768;
@@ -40,7 +39,7 @@ function TabIcon({
 
 export default function TabLayout() {
   const colorScheme = useColorScheme();
-  const hasUploadedZip = useAppSelector(selectHasUploadedZip);
+  const hasUploadedZip = useInstagramDataStore(selectHasUploadedZip);
   const isDark = colorScheme === 'dark';
   const { width } = useWindowDimensions();
 
