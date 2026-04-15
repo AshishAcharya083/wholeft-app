@@ -10,7 +10,22 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "app.wholeft"
+      "bundleIdentifier": "app.wholeft",
+      "infoPlist": {
+        "CFBundleURLTypes": [
+          {
+            "CFBundleURLSchemes": [
+              "com.googleusercontent.apps.20014286084-4131vkpg48vo8eu1n1sqs8dver6m8gt8"
+            ]
+          },
+          {
+            "CFBundleURLSchemes": [
+              "com.googleusercontent.apps.20014286084-4131vkpg48vo8eu1n1sqs8dver6m8gt8"
+            ]
+          }
+        ],
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "package": "app.wholeft",
@@ -30,6 +45,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "owner": "wholeft",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/04e7bac9-df90-4998-b635-02196fa96eaa"
     }
   }
 }
