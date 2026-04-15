@@ -3,12 +3,34 @@
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
-    "start": "expo start",
+    "start": "expo start --dev-client",
+    "start:prod": "APP_ENV=prod expo start --dev-client",
     "reset-project": "node ./scripts/reset-project.js",
     "android": "expo run:android",
     "ios": "expo run:ios",
     "web": "expo start --web",
-    "lint": "expo lint"
+    "lint": "expo lint",
+
+    "eas:login": "eas login",
+    "eas:whoami": "eas whoami",
+    "eas:init": "eas init --id 04e7bac9-df90-4998-b635-02196fa96eaa",
+
+    "build:dev:ios": "APP_ENV=dev eas build --profile development --platform ios",
+    "build:dev:android": "APP_ENV=dev eas build --profile development --platform android",
+    "build:dev:all": "APP_ENV=dev eas build --profile development --platform all",
+
+    "build:preview:ios": "APP_ENV=dev eas build --profile preview --platform ios",
+    "build:preview:android": "APP_ENV=dev eas build --profile preview --platform android",
+
+    "build:prod:ios": "APP_ENV=prod eas build --profile production --platform ios",
+    "build:prod:android": "APP_ENV=prod eas build --profile production --platform android",
+    "build:prod:all": "APP_ENV=prod eas build --profile production --platform all",
+
+    "credentials:android": "eas credentials -p android",
+    "credentials:ios": "eas credentials -p ios",
+
+    "submit:prod:ios": "APP_ENV=prod eas submit --profile production --platform ios",
+    "submit:prod:android": "APP_ENV=prod eas submit --profile production --platform android"
   },
   "dependencies": {
     "@expo/vector-icons": "^15.0.3",

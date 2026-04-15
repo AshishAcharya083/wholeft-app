@@ -101,7 +101,7 @@ export default ({ config }: ConfigContext): ExpoConfig => {
       googleWebClientId: envConfig.googleWebClientId,
       apiBaseUrl: envConfig.apiBaseUrl,
       eas: {
-        projectId: "218cafd4-1c8c-4a11-ba2e-8721aafb4692",
+        projectId: "04e7bac9-df90-4998-b635-02196fa96eaa",
       },
     },
   };
