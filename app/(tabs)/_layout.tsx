@@ -42,12 +42,12 @@ export default function TabLayout() {
   const colorScheme = useColorScheme();
   const isAuthenticated = useAuthStore(selectIsAuthenticated);
   const hasUploadedZip = useInstagramDataStore(selectHasUploadedZip);
+  const { width } = useWindowDimensions();
 
   if (!isAuthenticated) {
     return <Redirect href="/signin" />;
   }
   const isDark = colorScheme === 'dark';
-  const { width } = useWindowDimensions();
 
   const tabBarBackgroundColor = isDark ? '#1e2128' : '#ffffff';
   const tabBarBorderColor = isDark ? '#2a2d36' : '#f3f4f6';

@@ -27,7 +27,7 @@ export function SignInScreen(): React.ReactElement {
         />
         {error ? <Text style={styles.error}>{error}</Text> : null}
         <Text style={styles.legal}>
-          By continuing you agree to WhoLeft's terms of use and privacy policy.
+          By continuing you agree to WhoLeft&apos;s terms of use and privacy policy.
         </Text>
       </View>
     </View>
