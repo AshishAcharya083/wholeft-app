@@ -57,7 +57,13 @@ function resolveEnv(): AppEnv {
 
 export default ({ config }: ConfigContext): ExpoConfig => {
   const env = resolveEnv();
-  const envConfig = env === "prod" ? PROD : DEV;
+  const baseEnvConfig = env === "prod" ? PROD : DEV;
+
+  // Allow overriding the API base URL for local backend development.
+  // e.g. API_BASE_URL=http://localhost:5255 npm run web:local
+  const envConfig: EnvConfig = process.env.API_BASE_URL
+    ? { ...baseEnvConfig, apiBaseUrl: process.env.API_BASE_URL }
+    : baseEnvConfig;
 
   // Spread the static app.json config and override the dynamic bits.
   return {
