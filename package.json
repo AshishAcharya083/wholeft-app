@@ -3,6 +3,11 @@
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
+    "kill-port": "lsof -ti :8081 | xargs kill -9 2>/dev/null || true",
+    "clean-metro": "rm -rf .expo/web/cache node_modules/.cache $TMPDIR/metro-* $TMPDIR/haste-map-*",
+    "prestart": "npm run kill-port",
+    "prestart:prod": "npm run kill-port",
+    "preweb": "npm run kill-port && npm run clean-metro",
     "start": "expo start --dev-client",
     "start:prod": "APP_ENV=prod expo start --dev-client",
     "reset-project": "node ./scripts/reset-project.js",
