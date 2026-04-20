@@ -1,11 +1,12 @@
 import MaterialIcons from '@expo/vector-icons/MaterialIcons';
-import { Tabs } from 'expo-router';
+import { Redirect, Tabs } from 'expo-router';
 import React from 'react';
 import { Alert, Platform, StyleSheet, useWindowDimensions, View } from 'react-native';
 
 import { HapticTab } from '@/components/haptic-tab';
 import { useColorScheme } from '@/hooks/use-color-scheme';
 import { useInstagramDataStore, selectHasUploadedZip } from '@/src/features/homepage/store';
+import { selectIsAuthenticated, useAuthStore } from '@/src/features/signin';
 
 // Breakpoint for mobile vs tablet/desktop
 const MOBILE_BREAKPOINT = 768;
@@ -39,9 +40,14 @@ function TabIcon({
 
 export default function TabLayout() {
   const colorScheme = useColorScheme();
+  const isAuthenticated = useAuthStore(selectIsAuthenticated);
   const hasUploadedZip = useInstagramDataStore(selectHasUploadedZip);
-  const isDark = colorScheme === 'dark';
   const { width } = useWindowDimensions();
+
+  if (!isAuthenticated) {
+    return <Redirect href="/signin" />;
+  }
+  const isDark = colorScheme === 'dark';
 
   const tabBarBackgroundColor = isDark ? '#1e2128' : '#ffffff';
   const tabBarBorderColor = isDark ? '#2a2d36' : '#f3f4f6';
